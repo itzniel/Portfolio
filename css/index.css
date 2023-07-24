@@ -28,6 +28,11 @@
   color:white;
   
 }
+.a:hover {
+  color: #7d71eb;
+  cursor: pointer; 
+  font-family: 'Poppins';
+}
 nav {
   position: absolute;
   z-index: 1;
