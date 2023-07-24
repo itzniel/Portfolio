@@ -62,7 +62,12 @@ nav {
   float: right;
   font-size:30px;
 }
+nav {
 
+  font-size:15px;
+  
+  /* Additional styling for your navigation bar */
+}
 .overlay {
   position: absolute;
   top: 15%;
